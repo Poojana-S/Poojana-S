@@ -101,8 +101,6 @@
 ---
 
 ## 📬 Contact
-
-- 📞 **Phone:** 7904060460
 - 📧 **Email:** poojanas222@gmail.com
 
 ---
