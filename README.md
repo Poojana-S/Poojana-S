@@ -4,17 +4,8 @@
 
 ```bash
 $ whoami
-poojana-s — CSE @ Sri Eshwar (2027) · Full Stack · DevOps · Cloud
+poojana-s — CSE @ Sri Eshwar (2027) · DevOps · Cloud
 Department Topper · Project Expo Champion · LeetCode 1438
-
-$ cat skills.txt
-MERN Stack     ████████████████░░░░  80%
-AWS (EC2/S3)   ███████████████░░░░░  75%
-Jenkins CI/CD  ██████████████░░░░░░  70%
-Docker/K8s     █████████████░░░░░░░  65%
-Ansible/TF     ████████████░░░░░░░░  60%
-DSA            ███████████░░░░░░░░░  55%
-```
 
 ---
 
