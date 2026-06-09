@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=2d2d2d,444444,666666&height=220&text=POOJANA%20S&fontColor=f0f0f0&fontSize=68&fontAlignY=45&desc=deploy%20%7C%20automate%20%7C%20ship&descSize=18&descColor=aaaaaa&descAlignY=68&animation=fadeIn" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=CCCCCC&center=true&vCenter=true&width=650&lines=CSE+%40+Sri+Eshwar+College+of+Engineering+%282027%29;Full+Stack+%7C+DevOps+%7C+Cloud+Engineer;Department+Topper+%7C+Project+Expo+Champion;Jenkins+%7C+Ansible+%7C+Terraform+%7C+AWS;LeetCode+Max+Rating+%3A+1438)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=CCCCCC&center=true&vCenter=true&width=650&lines=CSE+%40+Sri+Eshwar+College+of+Engineering+%282027%29;DevOps+%7C+Cloud+Engineer;Department+Topper+%7C+Project+Expo+Champion;Jenkins+%7C+Ansible+%7C+Terraform+%7C+AWS;LeetCode+Max+Rating+%3A+1438)](https://git.io/typing-svg)
 
 </div>
 
@@ -12,14 +12,6 @@
 $ whoami
 poojana-s — CSE @ Sri Eshwar (2027) · Full Stack · DevOps · Cloud
 Department Topper · Project Expo Champion · LeetCode 1438
-
-$ cat skills.txt
-MERN Stack     ████████████████░░░░  80%
-AWS (EC2/S3)   ███████████████░░░░░  75%
-Jenkins CI/CD  ██████████████░░░░░░  70%
-Docker / K8s   █████████████░░░░░░░  65%
-Ansible / TF   ████████████░░░░░░░░  60%
-DSA            ███████████░░░░░░░░░  55%
 ```
 
 ---
