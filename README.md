@@ -6,6 +6,7 @@
 $ whoami
 poojana-s — CSE @ Sri Eshwar (2027) · DevOps · Cloud
 Department Topper · Project Expo Champion · LeetCode 1438
+```
 
 ---
 
