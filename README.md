@@ -129,7 +129,6 @@ Status        : active
 
 ```bash
 $ echo "open to collabs, internships, and interesting problems"
-open to collabs, internships, and interesting problems
 ```
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=444444,2d2d2d&height=120&section=footer&animation=fadeIn" width="100%" />
