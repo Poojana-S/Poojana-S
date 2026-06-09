@@ -10,7 +10,7 @@
 
 ```bash
 $ whoami
-poojana-s — CSE @ Sri Eshwar (2027) · Full Stack · DevOps · Cloud
+poojana-s — CSE @ Sri Eshwar (2027) · DevOps · Cloud
 Department Topper · Project Expo Champion · LeetCode 1438
 ```
 
@@ -114,7 +114,7 @@ Status        : active
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=poojanas222&bg_color=ffffff&color=555555&line=888888&point=222222&area=true&area_color=dddddd&hide_border=false&border_color=cccccc&radius=6" width="96%" alt="Contribution Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Poojana-S&bg_color=ffffff&color=555555&line=888888&point=222222&area=true&area_color=dddddd&hide_border=false&border_color=cccccc&radius=6" width="96%" alt="Contribution Graph" />
 
 </div>
 
